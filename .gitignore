@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+*.egg-info/
+.venv/
+venv/
+
+# Environment secrets
+.env
+*.env
+!env.example
+
+# Large/generated files
+*.faiss
+legal_kb_meta.json
+rag/sources/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Local test data
+tests/sample_docs/private_*.pdf
+*.log

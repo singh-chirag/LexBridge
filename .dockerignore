@@ -1,0 +1,40 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+*.egg-info/
+.venv/
+venv/
+
+# Virtual environments
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large files not needed in container
+rag/sources/*.pdf
+tests/sample_docs/*.pdf
+*.faiss
+*.json
+
+# Environment
+.env

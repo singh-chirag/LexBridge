@@ -1,0 +1,12 @@
+fastapi
+streamlit
+langgraph
+langchain
+langchain-groq
+sentence-transformers
+faiss-cpu
+pymupdf
+pytesseract
+pillow
+python-dotenv
+uvicorn
