@@ -1,4 +1,5 @@
 # LexBridge
+# https://lexbridge-4.onrender.com
 # ⚖️ LexBridge — AI Legal Aid Assistant
 
 LexBridge is an AI-powered legal document analysis system designed to help users understand complex legal notices, contracts, debt collection letters, eviction notices, immigration documents, and other legal paperwork using LLMs, OCR, RAG, and workflow orchestration.
